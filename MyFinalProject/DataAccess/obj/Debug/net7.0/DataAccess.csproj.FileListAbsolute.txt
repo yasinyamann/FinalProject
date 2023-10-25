@@ -1,0 +1,30 @@
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/yasinyaman/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll

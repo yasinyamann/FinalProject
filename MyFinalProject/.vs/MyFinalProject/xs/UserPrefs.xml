@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{40FB3B35-B483-4173-A5EF-A4056EF40C5C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/Concrete/EntityFramework/NorthwindContext.cs">
+    <Files>
+      <File FileName="DataAccess/Concrete/EntityFramework/NorthwindContext.cs" Line="25" Column="1" />
+      <File FileName="DataAccess/Concrete/InMemory/InMemoryProductDal.cs" />
+      <File FileName="DataAccess/Concrete/EntityFramework/EfProductDal.cs" Line="19" Column="1" />
+      <File FileName="ConsoleUI/Program.cs" />
+      <File FileName="Business/Concrete/ProductManager.cs" />
+      <File FileName="DataAccess/Abstract/ICustomerDal.cs" />
+      <File FileName="DataAccess/Abstract/ICategoryDal.cs" />
+      <File FileName="DataAccess/Abstract/IEntityRepository.cs" />
+      <File FileName="DataAccess/Abstract/IProductDal.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFinalProject" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="ConsoleUI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="EntityFramework" expanded="True">
+                  <Node name="NorthwindContext.cs" selected="True" />
+                </Node>
+                <Node name="InMemory" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Entities" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

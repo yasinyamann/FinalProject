@@ -1,0 +1,34 @@
+/Users/yasinyaman/Projects/MyFinalProject/Business/bin/Debug/net7.0/Business.deps.json
+/Users/yasinyaman/Projects/MyFinalProject/Business/bin/Debug/net7.0/Business.dll
+/Users/yasinyaman/Projects/MyFinalProject/Business/bin/Debug/net7.0/Business.pdb
+/Users/yasinyaman/Projects/MyFinalProject/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/yasinyaman/Projects/MyFinalProject/Business/bin/Debug/net7.0/Entities.dll
+/Users/yasinyaman/Projects/MyFinalProject/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/yasinyaman/Projects/MyFinalProject/Business/bin/Debug/net7.0/Entities.pdb
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/Business.dll
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/Business.pdb
+/Users/yasinyaman/Projects/MyFinalProject/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/bin/Debug/net7.0/Business.deps.json
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/bin/Debug/net7.0/Business.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/bin/Debug/net7.0/Business.pdb
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/bin/Debug/net7.0/Entities.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/bin/Debug/net7.0/Entities.pdb
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/Business.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/Business.pdb
+/Users/yasinyaman/Desktop/Yazılım Geliştirme Kampı/MyFinalProject/Business/obj/Debug/net7.0/ref/Business.dll
